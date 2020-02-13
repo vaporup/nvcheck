@@ -1,4 +1,4 @@
-# nvcheck
+# nvchecker
 
 - https://github.com/lilydjwg/nvchecker
 - https://packages.debian.org/nvchecker
